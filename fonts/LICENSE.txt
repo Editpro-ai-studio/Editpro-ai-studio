@@ -1,0 +1,8 @@
+All fonts in this folder are free, open-source fonts under the SIL Open Font License 1.1
+(https://openfontlicense.org). They come from the Google Fonts project via the @fontsource
+npm packages. They may be used in any video, for free, including commercial videos.
+Fonts: Abril Fatface, Alfa Slab One, Amatic SC, Anton, Audiowide, Bangers, Bebas Neue,
+Black Ops One, Bungee, Bungee Shade, Caveat, Cinzel, Creepster, Dancing Script, Fredoka,
+Great Vibes, Kaushan Script, Lobster, Luckiest Guy, Monoton, Noto Nastaliq Urdu, Orbitron,
+Oswald, Pacifico, Permanent Marker, Playfair Display, Poppins, Press Start 2P, Righteous,
+Rubik Glitch, Sacramento, Satisfy, Special Elite.
