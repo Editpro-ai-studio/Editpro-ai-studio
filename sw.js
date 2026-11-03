@@ -1,7 +1,7 @@
 // EditPro AI Studio service worker: makes the app installable and usable offline.
 // Strategy: pages are network-first (so updates arrive), other same-origin files are
 // cache-first. User media never passes through here; it lives in IndexedDB.
-const CACHE = 'editpro-v10';
+const CACHE = 'editpro-v11';
 
 // On install, save the page AND the app files it uses, so the app opens offline from the first visit.
 self.addEventListener('install', (event) => {
