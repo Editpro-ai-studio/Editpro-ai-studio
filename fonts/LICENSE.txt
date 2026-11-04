@@ -6,3 +6,10 @@ Black Ops One, Bungee, Bungee Shade, Caveat, Cinzel, Creepster, Dancing Script, 
 Great Vibes, Kaushan Script, Lobster, Luckiest Guy, Monoton, Noto Nastaliq Urdu, Orbitron,
 Oswald, Pacifico, Permanent Marker, Playfair Display, Poppins, Press Start 2P, Righteous,
 Rubik Glitch, Sacramento, Satisfy, Special Elite.
+Added in 2.14: Alex Brush, Allura, Amiri, Archivo Black, Bodoni Moda, Boogaloo, Bowlby One SC,
+Caveat Brush, Chewy, Cinzel Decorative, Cormorant Garamond, DM Serif Display, Ewert, Exo 2,
+Fascinate, Faster One, Gloria Hallelujah, Gulzar, Josefin Sans, Kalam, Knewave, Lalezar,
+Lilita One, Marcellus, Marck Script, Montserrat, Mrs Saint Delafield, Nosifer, Parisienne,
+Pirata One, Reem Kufi, Rock Salt, Rubik Mono One, Russo One, Rye, Shadows Into Light,
+Sigmar One, Tangerine, Teko, Titan One, Uncial Antiqua, UnifrakturMaguntia, Unbounded,
+Yellowtail, Yeseva One, Zen Dots.
